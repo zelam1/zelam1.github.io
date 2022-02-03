@@ -10,3 +10,8 @@ Image 4: Star with circle.
 HW #2
   Paint Program with masterpieces
   [HW_2.zip](https://github.com/zelam1/zelam1.github.io/files/7953180/HW_2.zip)
+
+
+HW #3
+Sprites moving with left annd right arrow keys
+[ZELAM_HW3.zip](https://github.com/zelam1/zelam1.github.io/files/7998349/ZELAM_HW3.zip)
