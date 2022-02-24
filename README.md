@@ -1,5 +1,6 @@
 # zelam1.github.io
 Coding
+
 HW #1
 Image 1: Green background with white square and circle. 
 Image 2: Three translucent circles. 
@@ -24,5 +25,10 @@ Bug Squish Game
 
 --------------------------------------------------------------------------------------------
 Sound
+
 HW #1
 Build a Sampler [ZELAM_SOUND_HW1.zip](https://github.com/zelam1/zelam1.github.io/files/8118594/ZELAM_SOUND_HW1.zip)
+
+
+HW #2
+Synths & Sequencers
