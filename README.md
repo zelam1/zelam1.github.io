@@ -31,4 +31,5 @@ Build a Sampler [ZELAM_SOUND_HW1.zip](https://github.com/zelam1/zelam1.github.io
 
 
 HW #2
-Synths & Sequencers
+Synths & Sequencers [ZELAM_Sound_HW2.zip](https://github.com/zelam1/zelam1.github.io/files/8138296/ZELAM_Sound_HW2.zip)
+
