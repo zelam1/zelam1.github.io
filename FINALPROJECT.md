@@ -5,7 +5,7 @@ Welcome to Oswald's Flying Adventures! Help Oswald the Flying Pig navigate the s
 The player has 30 seconds to collect as much cotton candy as possible.  Oswald moves up and down via a joystick connected to an Arduino. He is set to a costant speed. Every time he hits a piece of cotton candy, a buzzer goes off.  The music will speed up during the last 10 seconds of the game.
 
 Graphics:
-![Oswald   CC](https://user-images.githubusercontent.com/97987830/164994690-ed3295e1-13be-406c-b4ad-5a7dae723893.png)
+![Oswald   CC - Copy](https://user-images.githubusercontent.com/97987830/164994747-47dbfd6c-8324-48a1-8f80-3f90cbae14d8.png)
 
 Sounds:
 
