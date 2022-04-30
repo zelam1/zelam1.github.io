@@ -11,7 +11,7 @@ The player has 30 seconds to collect as much cotton candy as possible.  Oswald m
 **Sounds:**
 INSERT TEXT HERE
 
-Physical Computing
+**Physical Computing:**
 The button is connect to ground and digital pin 9 (orange wire).
 The joystick controller is connected to GND (black), 5V (white), A0 (purple), A1 (tan), and digital pin 4 (green).
 ![IMG_2902](https://user-images.githubusercontent.com/97987830/166120741-fafa26d9-8421-4c6a-9cc4-7a118711675f.jpg)
