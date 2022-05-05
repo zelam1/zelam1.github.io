@@ -9,7 +9,8 @@ The player has 30 seconds to collect as much cotton candy as possible.  Oswald m
 ![Thunder(1)](https://user-images.githubusercontent.com/97987830/164995063-18351409-7843-4a44-b841-5c3ae091cbe0.png)
 
 **Sounds:**
-The background music was provided from Freesound. https://freesound.org/people/Mrthenoronha/sounds/513427/ /n \n
+The background music was provided from Freesound. https://freesound.org/people/Mrthenoronha/sounds/513427/
+
 The cotton candy and thunder sounds were generated using sfxr.  
 All sound files can be found below in the ZIP files.
 
