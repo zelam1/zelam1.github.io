@@ -17,7 +17,7 @@ The joystick controller is connected to GND (black), 5V (white), A0 (purple), A1
 ![IMG_2902](https://user-images.githubusercontent.com/97987830/166120741-fafa26d9-8421-4c6a-9cc4-7a118711675f.jpg)
 
 
-**Video:** [https://youtu.be/SdxQvKJNtso](url)
+**Video:** [https://youtu.be/SdxQvKJNtso](https://youtu.be/SdxQvKJNtso)
 
 **Future Developments:**
 In the future, I would like to implement a pause function that stops the game whenever a thundercloud it hit.  The game would then start back up at a faster speed than before.  I feel like this would give the game an overall better look.  I would also add more obstacles in the sky that Oswald would have to avoid, like flying garbage that stops his movements.
