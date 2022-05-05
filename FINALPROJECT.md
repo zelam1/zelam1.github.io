@@ -9,7 +9,10 @@ The player has 30 seconds to collect as much cotton candy as possible.  Oswald m
 ![Thunder(1)](https://user-images.githubusercontent.com/97987830/164995063-18351409-7843-4a44-b841-5c3ae091cbe0.png)
 
 **Sounds:**
-INSERT TEXT HERE
+The background music was provided from Freesound. https://freesound.org/people/Mrthenoronha/sounds/513427/
+The cotton candy and thunder sounds were generated using sfxr.  
+All sound files can be found below in the ZIP files.
+
 
 **Physical Computing:**
 The button is connect to ground (black) and digital pin 9 (orange).
@@ -20,7 +23,7 @@ The joystick controller is connected to GND (black), 5V (white), A0 (purple), A1
 **Video:** [https://youtu.be/SdxQvKJNtso](https://youtu.be/SdxQvKJNtso)
 
 **Future Developments:**
-In the future, I would like to implement a pause function that stops the game whenever a thundercloud it hit.  The game would then start back up at a faster speed than before.  I feel like this would give the game an overall better look.  I would also add more obstacles in the sky that Oswald would have to avoid, like flying garbage that stops his movements.
+In the future, I would like to implement a pause function that stops the game whenever a thundercloud it hit.  The game would then start back up at a faster speed than before.  I feel like this would give the game an overall better look.  I would also add more obstacles in the sky that Oswald would have to avoid, like flying garbage that stops his movements. Another mode to the game would be to have multiple characters flying in the sky at once.
 
 **Final Code ZIP File:**
 [ZELAM_FINAL_PROJECT.zip](https://github.com/zelam1/zelam1.github.io/files/8628394/ZELAM_FINAL_PROJECT.zip)
