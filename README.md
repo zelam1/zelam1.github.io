@@ -6,4 +6,4 @@ HW Assignments:
 [https://github.com/zelam1/zelam1.github.io/tree/main/CSC%202463](https://github.com/zelam1/zelam1.github.io/tree/main/CSC%202463)
 
 Final Project:
-[https://github.com/zelam1/zelam1.github.io/blob/main/FINALPROJECT.md](https://github.com/zelam1/zelam1.github.io/blob/main/FINALPROJECT.md)
+[https://zelam1.github.io/FINALPROJECT](https://zelam1.github.io/FINALPROJECT)
